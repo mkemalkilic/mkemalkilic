@@ -2,7 +2,6 @@
 
 🚛 I'm a **Mechanical Engineer** specializing in **Truck Testing and Validation**. Currently working as a **Truck Complete Vehicle Validation Team Leader** in the commercial vehicle industry.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=0A66C2)](https://www.linkedin.com/in/mustafa-kemal-kilic/)
 [![GitHub](https://img.shields.io/badge/GitHub-mkemalkilic-black?style=flat&logo=github)](https://github.com/mkemalkilic)
 
 ---
@@ -40,7 +39,6 @@ A Python-based software to manage **symptoms** and **defects** recorded during t
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mustafa-kemal-kilic/)
 - 📬 Message me via GitHub: [@mkemalkilic](https://github.com/mkemalkilic)
 
 ---
